@@ -1,0 +1,452 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A diary and relation of passages in, and about Dublin: from the first of August, 1647. to the tenth of the same Brought this day, being the eighteenth of August, 1647. by Lievtenant Colonell Arthur Culme, one in the present expedition in Ireland. By him presented to the Parliament.</title>
+            <author>Rowe, Matthew.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81118</idno>
+            <idno type="STC">Wing C7477B</idno>
+            <idno type="STC">ESTC R225767</idno>
+            <idno type="EEBO-CITATION">99895643</idno>
+            <idno type="PROQUEST">99895643</idno>
+            <idno type="VID">153162</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153162)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2352:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A diary and relation of passages in, and about Dublin: from the first of August, 1647. to the tenth of the same Brought this day, being the eighteenth of August, 1647. by Lievtenant Colonell Arthur Culme, one in the present expedition in Ireland. By him presented to the Parliament.</title>
+                  <author>Rowe, Matthew.</author>
+                  <author>Culme, Arthur, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Godfrey Emerson, at the Swan in Little-Britaine,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing attributes to Arthur Culme, whose name appears on title page as the deliverer of the newsletter to Parliament. However, this text was also published in the same year as part of "An exact and full relation of the great victory obtained against the rebels at Dungons-Hill in Ireland, August 8. 1647. by the forces under the command of Colonel Michael Jones" (Wing R2068). In that edition, the letter is signed: Matt. Rowe.</note>
+                  <note>The last leaf bears "A list of the prisoners taken at the Battaile of Dungan-Hill, August 8. 1647" on verso. This list is also printed in Wing  R2068.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153162:1"/>
+            <!-- PDF PAGE 43 -->
+            <p>A DIARY AND Relation of PASSAGES In, and about DVBLIN: <hi>From the Firſt of</hi> Auguſt, 1647. <hi>to the Tenth of the ſame.</hi>
+            </p>
+            <p>Brought this day, being the eighteenth of <hi>Auguſt,</hi> 1647. by Lievtenant Colonell <hi>Arthur Culme,</hi> one in the preſent Expedition in IRELAND.</p>
+            <p>By Him preſented to the Parliament.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Godfrey Emerſon,</hi> at the Swan in Little-Britaine, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="diary">
+            <pb n="1" facs="tcp:153162:2"/>
+            <!-- PDF PAGE 44 -->
+            <head>A Diary and Relation of Paſſages in, and about <hi>Dublin;</hi> From the firſt of <hi>Auguſt,</hi> 1647. unto the Tenth of the ſame.</head>
+            <p>
+               <seg rend="decorInit">F</seg>OR relieving of <hi>Trim</hi> (a conſiderable Gariſon of ours twenty miles diſtant from <hi>Dublin</hi>) beſieged by Colonel <hi>Preſton,</hi> the Rebels General of <hi>Lemſter,</hi> with his whole ſtrength, Colonell <hi>Michael Jones</hi> Com<g ref="char:EOLhyphen"/>mander in chiefe of the <hi>Lemſter</hi> Forces, marched from <hi>Dublin</hi> the firſt day of <hi>Auguſt,</hi> 1647 with about 3800 Foot, and two Regiments of Horſe, two Demi-Culve<g ref="char:EOLhyphen"/>rins, one Saker, and four Saker Cuts.</p>
+            <p>That night the Army quartered at a Village called <hi>Swords,</hi> ſix miles from <hi>Dublin,</hi> being ſomething out of the Road to <hi>Trim,</hi> but leading towards the Rendezvouz apppointed for meeting with the <hi>Drogheda</hi> and <hi>Dundalke</hi> Forces, joyned with a Party of Horſe and Foot expected out of the North of <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>Munday</hi> the 2. they marched to <hi>Ballirothery,</hi> 6 miles from <hi>Swords.</hi>
+            </p>
+            <p>
+               <hi>Tueſday</hi> the 3. they marched over the hills of <hi>Holliwood,</hi> a moun<g ref="char:EOLhyphen"/>tainous Countrey, to a place called the <hi>Naall,</hi> and that night to <hi>Gariſton,</hi> where Colonell <hi>Jones</hi> received intelligence of the advan<g ref="char:EOLhyphen"/>cing of the expected Supplyes.</p>
+            <p>
+               <hi>Wedneſday</hi> the 4. the Army marched to the hill of <hi>Skreene,</hi> where they met with Sir <hi>Henry Tichborne,</hi> with the <hi>Drogheda</hi> Forces, Colo<g ref="char:EOLhyphen"/>nel <hi>Moore,</hi> with thoſe of <hi>Dundalke Newry,</hi> and <hi>Carlingford,</hi> and Col. <hi>Conway</hi> with a party of the Northerne old Britiſh, all making up about 700 Horſe, and 1200 Foot; and two peeces of Ordnance.</p>
+            <p>Thither came from <hi>Trim</hi> Major <hi>Caduggen,</hi> and Capt. <hi>Arthur Gra<g ref="char:EOLhyphen"/>hem,</hi> informing that the enemy had that morning burned his Camp about <hi>Trim,</hi> retyring to the old lurking-place, called, <hi>Port Leiceſter,</hi> a great and ſecure faſtneſſe, about five miles Weſtward from <hi>Trim.</hi>
+            </p>
+            <p>The ſame day our Army marched to the hill of <hi>Tarragh,</hi> where they were drawn up, and muſtered 1500 Horſe, and about 5000 Foot.</p>
+            <p>That night they quartered at the foot of the hill of <hi>Tarragh,</hi> at
+<pb n="2" facs="tcp:153162:3"/>
+               <!-- PDF PAGE 45 -->a place called <hi>Dodiſtowne;</hi> here Colonell <hi>Jones</hi> called a Councell of Warre.</p>
+            <p>
+               <hi>Thurſday</hi> the 5. the Army marched to a place called <hi>Scurloikstown,</hi> within one mile of <hi>Trim,</hi> where that night they Quartered.</p>
+            <p>
+               <hi>Friday</hi> the 6. they marched through <hi>Trim</hi> to a place called <hi>Trim<g ref="char:EOLhyphen"/>bleſtowne,</hi> a ſtrong Caſtle belonging to the Lord of <hi>Trimblestowne,</hi> wherein the Enemy had a Gariſon.</p>
+            <p>This place Colonell <hi>Jones</hi> ſurrounded in view of the Enemy then encamping at <hi>Port Leiceſter</hi> 2 miles off; thereby to draw him forth, if poſſible it might be, to ingage himſelf to fight.</p>
+            <p>
+               <hi>Saturday</hi> the 7. a party of 50 Horſe of ours was commanded out for diſcovering of the Enemy, and obſerving his motion.</p>
+            <p>About ten of the clock that day, the Enemy was obſerved to move, and riſing from <hi>Port Leicester</hi> to croſſe the Countrey, and march toward <hi>Maynouth,</hi> a place within 10 miles of <hi>Dublin:</hi> This confir<g ref="char:EOLhyphen"/>med the intelligence formerly given us of the Rebells intending to come between us and home, and marching to <hi>Dublin</hi> for ſurpriſing that place, in abſence of our Forces engaged at the ſiege of <hi>Trim<g ref="char:EOLhyphen"/>bleſtowne.</hi>
+            </p>
+            <p>Whereupon Col. <hi>Jones</hi> reſolved to riſe with the Army, and to follow the Enemy, and had ſcarcely ſpoken the word for comman<g ref="char:EOLhyphen"/>ding Drums to beat, but (by eſpecial Providence) at the ſame inſtant, did the Caſtle beat a Parley, offering to ſurrender it, if permitted to march away with Bag and Baggage, and Colours flying; which, with advice of a Councell of War, was aſſented unto, we receiving the place, and placing therein a Gariſon.</p>
+            <p>That night our Army marched back through <hi>Trim,</hi> and quartered at <hi>Scurloikeſtowne</hi> aforeſaid, therein (in foure houres) marching as far as before they had done in one whole day.</p>
+            <p>That night a Convoy with ſome proviſions came from <hi>Drogheda</hi> to the Army.</p>
+            <p>That night a Commanded party of 500 Horſe was ſent out from our Army, with Orders to follow the Enemy, and beat up his Quarters, if enquartered; otherwiſe to follow him to <hi>Dublin,</hi> if marching forward; the Body of our Army being to follow after with all poſſible expedition.</p>
+            <p>This commanded Party found the Enemy quartered behinde a very great Bog, ſo as no approach could be made to him; whereof Col. <hi>Jones</hi> being certified, he the next morning advanced towards the enemy with the whole Army.</p>
+            <p>
+               <pb n="3" facs="tcp:153162:3"/>
+               <!-- PDF PAGE 45 -->
+The Army marched through the ſtrong Faſtneſſe of <hi>Deniga<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> be<g ref="char:EOLhyphen"/>longing unto <hi>Weſtby,</hi> wherein was a Gariſon of the Enemy that <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hot at our men in their paſſing by, the Village we fired, but the Caſtle held out.</p>
+            <p>That day about 10 of the clock our Army came to a place called <hi>Linchesknocke,</hi> within one mile whereof the Enemy was drawne up on <hi>Dungan</hi> hill, a place to him of all advantages, being a high ground, whereunto adjoyned a wood and a bog, (their uſuall refuge in diſtreſſe.) The enemy alſo ſtood poſſeſt of great ditches, within which he was, as in ſo many ſtrong Works intrenched; hereunto may be added the advantages of Wind and Sun.</p>
+            <p>The Enemy had lately before muſtered 7300 Foot, and 1047 Horſe; which number of Horſe appeareth by a Muſter-Roll after found, in theſe words; <hi>Viz.</hi>
+            </p>
+            <list>
+               <head>Muſtered the 5 of Auguſt, <hi>1647.</hi>
+               </head>
+               <item>The Lord Gen. Troop, beſides Officers 52</item>
+               <item>Col. <hi>Fitz Gerrald</hi> 49</item>
+               <item>The Major Generall 50</item>
+               <item>Lievt. Col. <hi>Finglas</hi> 45</item>
+               <item>Major <hi>Butler</hi> 50</item>
+               <item>Cap. <hi>Fitz Gerrald</hi> 42</item>
+               <item>Colonell <hi>Cullen</hi> 34</item>
+               <item>Sir <hi>James Dyllon</hi> 36</item>
+               <item>Captain <hi>Davies</hi> 47</item>
+               <item>Major <hi>Dungan</hi> 44</item>
+               <item>Capt. <hi>Iohn Fitz Patrick</hi> 35</item>
+               <item>Colonell <hi>Preſton</hi> 35</item>
+               <item>Captaine <hi>Aylmer</hi> 26</item>
+               <item>Captaine <hi>Plunket</hi> 28</item>
+               <item>Captaine <hi>Harpoole</hi> 28</item>
+               <item>Earle of <hi>Fingall</hi> 41</item>
+               <item>Lord of <hi>Trimbleſtowne</hi> 36</item>
+               <item>Earle of <hi>Weſtmeath</hi> 41</item>
+               <item>Cap. <hi>James Barnwell</hi> 35</item>
+               <item>Capt. <hi>John Butler</hi> 39</item>
+               <item>Sir <hi>Walter Butler</hi> 40</item>
+               <item>Cap. <hi>Grace</hi> 47</item>
+               <item>Cap. <hi>Edward Butler</hi> 34</item>
+               <item>Cap. <hi>Waſh</hi> 44</item>
+               <item>Cap. <hi>Bagnall</hi> 45</item>
+               <item>Cap. <hi>Nugent</hi> 44</item>
+            </list>
+            <p>This liſt of 26 Troopes, amounteth to 1047 Horſe, whereunto is to bee added the Lord Viſcount <hi>Coſtelaghs</hi> party of about 300 Horſe, and two of the <hi>Nugents,</hi> with two Troopes more, which came to the Enemy the night before the Battail.</p>
+            <p>Under the hill our Army was drawn up, the Enemies Cannon played hotly at us, but with little loſſe, other then 1 horſe, and two Men.</p>
+            <p>About 12. of the Clocke the Armies joyned the Battaile, continu<g ref="char:EOLhyphen"/>ing about two houres, our two wings of Horſe with ſome foot, ha<g ref="char:EOLhyphen"/>ving broken both wings of the Enemy, our maine body advanced &amp; broke their's, whereupon about 3000. of the Rebels betaking them<g ref="char:EOLhyphen"/>ſelves to the Bog, they there drew up into a body. But Colonell <hi>Jones</hi> commanding the Bog to be ſurrounded with Horſe and Foot, our Foot followed into the Bog, where they put to the Sword all not admitted to quarter; ſuch of the Rebels as left the Bog feil into the power of our Horſe.</p>
+            <p>
+               <pb n="4" facs="tcp:153162:4"/>
+               <!-- PDF PAGE 46 -->
+Of the ſlaine there were upon the place reckoned 5470. beſides thoſe after gleaned up, which were very many of the enemies Foot, there could not eſcape above 500. being as they were invironed; among thoſe ſlaine were 400. of <hi>Collogh Kittaghes</hi> men. There was alſo put to the Sword without mercy, all formerly of our party now found amongſt the Rebels, and all Engliſh though never of our party. The number of Priſoners (as appeareth in the annexed Schedule) is of Colonells five, whereof <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Lieutenant Generall of <hi>Lemſter</hi> and the Earle of <hi>Weſtmeath:</hi> foure Lievtenant Colonells, ſix Serjant Majors, 32. Captaines, 23. Lievtenants, 27. Enſignes, two Cornets, 22. Serjeants, two Quarter-maſters, two Gunners, the Clerke of the ſtore, 13. Troopes, and 228. Common Souldi<g ref="char:EOLhyphen"/>ers: <hi>Preſton</hi> their Generall hardly eſcaped with the Horſe, hee loſt his Carriages, and Cannon, being foure Demy-Culverings, each carrying 12. pound Bullet, and 64. faire Oxen attending the Traine, which are to us of very great uſe, wee being till now in that kind very ſhort provided. There was alſo taken <hi>Preſtons</hi> Cabbinet of Papers, much valued in the diſcoveries therein made; all their Co<g ref="char:EOLhyphen"/>lours wee have, which Colonell <hi>Jones</hi> could not bee perſwaded to bee brought into <hi>Dublin</hi> in Triumph, as ſavouring (ſaid hee) of oſtentation, and attributing unto men the glory of this great work, due to the Lord onely.</p>
+            <p>Of ours were ſome wounded, but not 20. ſlaine; of note we loſt onely two Cornets, and one Captaine <hi>Gibbes,</hi> who overheated in the ſervice died in drinking ditch water.</p>
+            <p>Herein to give every hand in this glorious action the honour due, were more then many more lines would ſuffice unto; In the gene<g ref="char:EOLhyphen"/>rall never did men carry themſelves with more reſolution and gal<g ref="char:EOLhyphen"/>lantry, then did ours, both officers and Souldiers, deſerving much more encouragement then hitherto they have found, moſt of them having ſcarce meate to eate, or cloaths to put on.</p>
+            <p>All done, Colonell <hi>Jones</hi> commanded throughout the Army thankeſgiving to bee given to the Lord of Hoſts, who did that day wonderfully for his people, appointing Tueſday the 17. of <hi>Aug.</hi> for a day of publick thankſgiving, in all the Churches of <hi>Dublin.</hi>
+            </p>
+            <p>On the place where the Battaile was fought did the Army that night Quarter.</p>
+            <p>
+               <hi>Munday, Auguſt</hi> the 9. Colonell <hi>Iones</hi> called a Councell of Warre, and Commanded Colonell <hi>F<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nnick,</hi> Governour of <hi>Trim,</hi> to place Garriſons in <hi>Denigan,</hi> and <hi>Kilbrewe.</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:153162:5"/>
+               <!-- PDF PAGE 47 -->
+That day the Army marched to <hi>Maynouth,</hi> a ſtrong Caſtle belong<g ref="char:EOLhyphen"/>ing to the Earle of <hi>Kildare,</hi> which was ſummoned and ſurrendred by the Rebels, and by us Garriſoned.</p>
+            <p>After this Victory the Enemy quit and burnt divers of their Gar<g ref="char:EOLhyphen"/>riſons, <hi>viz.</hi> the <hi>Naas, Siggniſtowne, Harriſtowne, Collanſtowne, Caſtle-Warning</hi> and <hi>Moyglare,</hi> and much more had been gained of them, had there been pay and proviſions for our Army whereby the Victo<g ref="char:EOLhyphen"/>ry might have been proſecuted, but in the want of both, they were enforced to take homewards unexpectedly.</p>
+            <p>
+               <hi>Tueſday</hi> the 10. Colonell <hi>Iones</hi> diſmiſſed the Northerne Forces that had joyned with him, engaging himſelfe for their ſatisfaction, as ſoone as Treaſure ſhould come over.</p>
+            <p>Hee alſo diſmiſſed to their ſeverall Garriſons the Forces of <hi>Drog<g ref="char:EOLhyphen"/>heda, Dundalke, Newry</hi> and <hi>Carlingford,</hi> commanding Sir <hi>Henry Tich<g ref="char:EOLhyphen"/>burne</hi> in his returne to ſummon the <hi>Nobbyr</hi> and other places neere <hi>Drogheda</hi> poſſeſſed by the Rebels, promiſing if occaſion required, and that proviſion could bee made for the Army, to advance with his ſtrength to their aſſiſtance.</p>
+            <p>That day the reſt of the Army marched to <hi>Dublin,</hi> where wanting what might content our hungry and wearied Souldiers, by provi<g ref="char:EOLhyphen"/>dence of God, as our Army was ready to enter the Citie, they were met with newes of 1500 .l. brought by Captaine <hi>Rich</hi> into the Harbour, borrowed by Alderman <hi>Walley,</hi> therein much meriting of the publique; this ſmall ſumme, though otherwiſe very inconſi<g ref="char:EOLhyphen"/>derable, was yet ſomething in the preſent diſtreſſe, and is to bee valued as an earneſt of the Lords care of his people, to whom hee will in his good time appeare in a full deliverance.</p>
+            <p>There was little conſiderable pillage gained from the Enemy in this Victory, that of beſt value was the Artillery and Oxen, which laſt Colonell <hi>Iones</hi> purchaſed for the publique uſe, from thoſe hands whereinto they fell, unto whom hee ſtandeth ingaged for ſatisfaction: as for pillage of greater value, little was found, how<g ref="char:EOLhyphen"/>ſoever ſome have beene pleaſed to ſpeake of it largely, and ridicu<g ref="char:EOLhyphen"/>louſly, and if any thing had been in that kind gained more then or<g ref="char:EOLhyphen"/>dinary, it could not be imagined it ſhould be of publique advantage comming in, (and that of due) into private hands.</p>
+            <p>This was the moſt ſignall Victory with greateſt loſſe to the Re<g ref="char:EOLhyphen"/>bells, that ever was gained in <hi>Ireland</hi> ſince the firſt conqueſt thereof by the Engliſh, for which the Lord make us truly thankfull.</p>
+         </div>
+         <div type="list_of_prisoners">
+            <pb facs="tcp:153162:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 48 -->
+            <head>A liſt of the Priſoners taken at the Battaile of <hi>Dungan-Hill, Auguſt</hi> 8. 1647.</head>
+            <list>
+               <item>
+                  <list>
+                     <head>5 Colonels.</head>
+                     <item>
+                        <hi>The Earle of</hi> Weſtmeth</item>
+                     <item>
+                        <hi>Lievtenant Generall</hi> Berne</item>
+                     <item>
+                        <hi>Colonel</hi> warren</item>
+                     <item>
+                        <hi>Colonel</hi> Browne</item>
+                     <item>
+                        <hi>Colonel</hi> Buttler</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>4 Lievtenant Colonels.</head>
+                     <item>
+                        <hi>Lievtenant Colonel</hi> Synnett</item>
+                     <item>
+                        <hi>Lievtenant Col.</hi> Fitz Gerrard</item>
+                     <item>
+                        <hi>Lievtenant Col.</hi> Cavanagh</item>
+                     <item>
+                        <hi>Lievtenant Col.</hi> C<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uce</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>6 Serjant Majors.</head>
+                     <item>
+                        <hi>Major</hi> Tafe</item>
+                     <item>
+                        <hi>Major</hi> Lawlor</item>
+                     <item>
+                        <hi>Major</hi> Guſak</item>
+                     <item>
+                        <hi>Major</hi> Gaffegan</item>
+                     <item>
+                        <hi>Major</hi> Synnett</item>
+                     <item>
+                        <hi>Major</hi> Berne</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>32 Captaines</head>
+                     <item>Michael Berne</item>
+                     <item>Arthur Cavanagh</item>
+                     <item>Darby Toole</item>
+                     <item>Martin Wolverſton</item>
+                     <item>Edward Terrel</item>
+                     <item>Chriſtopher Nugent</item>
+                     <item>Edward Nugent</item>
+                     <item>Balthazer Nugent</item>
+                     <item>Iames Dempſye</item>
+                     <item>William Terrel</item>
+                     <item>Roger Darcye</item>
+                     <item>Iames Fitz Gerrard</item>
+                     <item>Thomas Goghegan</item>
+                     <item>Charles Conner</item>
+                     <item>Henry Warren</item>
+                     <item>Patrick Nettervile</item>
+                     <item>Teagh Connor</item>
+                     <item>Thomas Plunkett</item>
+                     <item>Lawrence Fitz Patrick</item>
+                     <item>Thomas Gawlie</item>
+                     <item>Richard Naſh</item>
+                     <item>Dominick Shortayle</item>
+                     <item>Iohn Comerford</item>
+                     <item>William Furlong</item>
+                     <item>Arthur Dillon</item>
+                     <item>Lawrence Tute</item>
+                     <item>Robert Preſton <hi>Capt. of Horſe</hi>
+                     </item>
+                     <item>Randol M. <gap reason="illegible: damage" extent="4+ letters">
+                           <desc>••••…</desc>
+                        </gap>der</item>
+                     <item>
+                        <hi>Captaine</hi> Goghegan</item>
+                     <item>
+                        <hi>Captaine</hi> M. Donnel</item>
+                     <item>
+                        <hi>Captaine</hi> Tafe</item>
+                     <item>
+                        <hi>Captaine</hi> Rochford</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>23 Leivtenants.</head>
+                     <item>Nicholas Terrel</item>
+                     <item>James Caſye</item>
+                     <item>Garret Floid</item>
+                     <item>Edmund Bermingham</item>
+                     <item>Thomas Darcye</item>
+                     <item>Chriſtopher Goghegan</item>
+                     <item>Walter Mooney</item>
+                     <item>Donnough Dempſye</item>
+                     <item>Leonard Shortayle</item>
+                     <item>Chriſtopher Darcye</item>
+                     <item>Michael Gainer</item>
+                     <item>Roſſe Goghegan</item>
+                     <item>Thomas Quiun</item>
+                     <item>Henry Dolton</item>
+                     <item>Henry Neale</item>
+                     <item>Bryan Cavanah</item>
+                     <item>Terlogh Toole</item>
+                     <item>Robert Berne</item>
+                     <item>Walter Fitz Harris</item>
+                     <item>John Roch</item>
+                     <item>Theobald Toole</item>
+                     <item>Roſſe Dempſye</item>
+                     <item>James Barryals Fitz Gerrald</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>27 Enſignes.</head>
+                     <item>James Fitz Simons</item>
+                     <item>James Terrel</item>
+                     <item>Teah Kelly</item>
+                     <item>Francis Fox</item>
+                     <item>James M. O. Kyre</item>
+                     <item>Chriſtopher Nugens</item>
+                     <item>Lawrence Dempſye</item>
+                     <item>Philip Cuſack</item>
+                     <item>George Warren</item>
+                     <item>Andrew Goghegan</item>
+                     <item>Oliver Lynack</item>
+                     <item>James Warren</item>
+                     <item>John Butler</item>
+                     <item>James Fitz Harris</item>
+                     <item>Victor Whyle</item>
+                     <item>Jeffrey Fitz Simons</item>
+                     <item>Owen O Heveran</item>
+                     <item>Edward Fitz Gerrald</item>
+                     <item>Robert Fitz Gerrald</item>
+                     <item>Lawrence M. Donnel</item>
+                     <item>Phileme Nolan</item>
+                     <item>Patrick Kahor</item>
+                     <item>Authony O. Bryan</item>
+                     <item>Dannel Cowran</item>
+                     <item>Terlagh M. O. Nully</item>
+                     <item>Evis M. Alexander</item>
+                     <item>Nicholas Quaitrel</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>2 Cornets.</head>
+                     <item>Richard Talbott</item>
+                     <item>James Fitz Gerrald</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>2 Quarter Maſters</head>
+                     <item>Iames Walſh</item>
+                     <item>Richard Iones</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>2 Gunners.</head>
+                     <item>Michael Walſh</item>
+                     <item>Philip Stafford</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Clerk of the Store</head>
+                     <item>Iohn Hadger</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>22 Serjants.</head>
+                     <item>Donnah Mynan</item>
+                     <item>Iohn O. Meighan</item>
+                     <item>Moyle Murry Kavanagh</item>
+                     <item>Peirce Synne<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </item>
+                     <item>Teagh Gaffney</item>
+                     <item>Iames Purſell</item>
+                     <item>Patrick Rowland</item>
+                     <item>Chire Kavanagh</item>
+                     <item>Morrough Kavanagh</item>
+                     <item>Garret Toole</item>
+                     <item>Neile O Roirk</item>
+                     <item>Neale O Dolan</item>
+                     <item>Iohn Darcye</item>
+                     <item>Patrick Farily</item>
+                     <item>Thomas Corlan</item>
+                     <item>Richard Murphey</item>
+                     <item>Gerrat Terrel</item>
+                     <item>Manus O Ledan</item>
+                     <item>William O Moran</item>
+                     <item>Owen M. Caffrey</item>
+                     <item>Iohn M. Scallin</item>
+                     <item>Dudly Berne</item>
+                  </list>
+               </item>
+               <item>13 Troopers.</item>
+               <item>228 Common Souldiers.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
